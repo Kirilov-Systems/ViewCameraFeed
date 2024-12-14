@@ -1,3 +1,9 @@
+
+import os
+os.system("pip install opencv-python")
+os.system("pip install flask")
+os.system("pip install flask_socketio")
+
 import cv2
 import base64
 import time
